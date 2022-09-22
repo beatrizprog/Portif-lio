@@ -1,0 +1,47 @@
+body{
+    color:white;
+   background-color: black;
+    font-family:"poppins sans-serif";
+    background-image: url('../img/187161.webp');
+}
+
+ul{
+   display: flex;
+   justify-content: space-around;
+   list-style-type: none;
+   padding: 16px;
+}
+a{
+   color:white;
+   text-decoration: none;
+
+}
+img{
+   width: 300px;
+   height: 300px;
+   border-radius: 50%;
+   border: 3px solid rgb(243, 140, 221);
+   
+
+}
+.center{
+   text-align: center;
+   margin: 100px;
+
+}
+h1{
+   color:white;
+
+}
+h2{ 
+   color: white;
+font-family: ;
+
+}
+.container{ 
+   padding: 0px 50px;
+   
+}
+nav a:hover{
+   color:purple;
+}
